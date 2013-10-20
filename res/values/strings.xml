@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Structured</string>
+    <string name="dummy_button">Save</string>
+    <string name="dummy_content">Hello! Write your notes here.</string>
+
+</resources>
